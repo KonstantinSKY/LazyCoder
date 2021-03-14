@@ -28,7 +28,7 @@ dryscrape
 # sudo pacman -S qt5-webkit
 # sudo pacman -S python-lxml
 # sudo pacman -S qt5-base
-# sudo pacman -S qt5-base
+# sudo pacman -S qt6-base
 
 ##### ubuntu install
 # apt-get install qt5-default libqt5webkit5-dev build-essential python-lxml python-pip
