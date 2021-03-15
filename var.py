@@ -1,7 +1,7 @@
 
 from dryscrape.session import Session
 from dryscrape.mixins import WaitTimeoutError
-from requests_html import HTMLSession
+
 from bs4 import BeautifulSoup
 
 
