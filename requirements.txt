@@ -5,6 +5,7 @@
 dryscrape
 requests_html
 pyautogui
+cloudscraper
 
 #
 ###### Requirements with Version Specifiers ######
